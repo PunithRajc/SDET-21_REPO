@@ -18,7 +18,7 @@ public class OrgTest {
 	
 	@Test(groups="Regression")
 	public void deletecreatecontactTest() {
-		System.out.println("execute deletecreateContactTest");
+		System.out.println("execute deletecreateContactTesta");
 	}
 	@Test(groups="Regression")
 	public void deploycontactTest() {
